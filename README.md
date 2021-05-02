@@ -17,5 +17,5 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 [Puan Durumu](https://www.euroleague.net/main/standings)
 ***
 
-![Puan Durumu](https://brandcenter.euroleague.net/front/brandcenter/assets/images/eball.svg)
+![Puan Durumu](https://static-s.aa-cdn.net/img/ios/789636293/ede123fc25b8a6f0e27939c13fdc573c?v=1)
 ***
